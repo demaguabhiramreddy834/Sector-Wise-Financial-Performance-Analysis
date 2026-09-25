@@ -121,7 +121,7 @@ Stock-Market-EDA/
 
 ## ▶️ How to Run the Project
 ### 1. Clone the repository
-git clone <your-github-repository-url>
+git clone <https://github.com/demaguabhiramreddy834/Sector-Wise-Financial-Performance-Analysis/tree/main>
 
 ### 2. Open the notebook
 Open:
@@ -161,5 +161,3 @@ Execute the notebook cells sequentially to:
 
 ## 📌 Disclaimer
 This project is created for educational and analytical purposes. The financial data is collected from a publicly accessible website and the analysis should not be considered financial or investment advice.
-
-This project is created for **educational and analytical purposes**. The financial data is collected from a publicly accessible website and the analysis should not be considered financial or investment advice.
